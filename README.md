@@ -18,6 +18,5 @@
   - Support All Proxies
 - Contact :
   - TeleGram : https://t.me/WHI3PER
-  - InstaGram : https://instagram.com/whisper_dev
 - ScreenShots :![337940458-490fd113-76bf-47a5-a7bb-09f555cadbc1](https://github.com/Whisper-Legendary/InstaGram-BOT/assets/165835238/f436f3b4-5303-49e3-9bed-3256434d57f1)
 ![337940462-10091aa3-b45b-4371-aa0e-f9e0dbcec688](https://github.com/Whisper-Legendary/InstaGram-BOT/assets/165835238/c08a29e2-6ecd-4fc5-9e26-f7e9ca1da9b2)
